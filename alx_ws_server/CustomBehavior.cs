@@ -1,10 +1,4 @@
-using CitizenFX.Core;
-using CitizenFX.Core.Native;
 using System;
-using System.Net;
-using System.Threading;
-using System.Threading.Tasks;
-using System.Collections.Generic;
 using WebSocketSharp;
 using WebSocketSharp.Server;
 
